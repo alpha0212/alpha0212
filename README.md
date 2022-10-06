@@ -33,6 +33,7 @@ Have a day full of JOY today.
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=Nest&logoColor=white"/>
 
 </div>
 
